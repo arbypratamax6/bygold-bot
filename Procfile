@@ -1,0 +1,1 @@
+worker: python bygoldsignal_bot.py
